@@ -1,0 +1,19 @@
+.barraStyle {
+    width: 100%;
+    height: 20vh;
+    margin-top: 0;
+    display: flex;
+    background-color: rgb(228, 228, 137);
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.barraButons {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.button:hover {
+    border-color: grey;
+}
+  
